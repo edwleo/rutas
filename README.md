@@ -13,6 +13,7 @@
 Este es un bloque tipo cita
 ```
 
+> [!NOTE]
 > Este es el texto de la nota
 
 Visita: [Google](https://www.google.com)

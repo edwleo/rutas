@@ -1,14 +1,14 @@
 <?php
 //Parámetros de la aplicación
-require_once '../app/config/App.php';
+require_once '../../app/config/App.php';
 ?>
 
-  <?php require_once "./includes/header.php"; ?>
+  <?php require_once "../includes/header.php"; ?>
 
     <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
       <!-- Content Header (Page header) -->
-      <?php echo renderContentHeader("Bienvenidos", "Inicio") ?>
+      <?php echo renderContentHeader("Ventas", "Inicio") ?>
       <!-- /.content-header -->
 
       <!-- Main content -->
@@ -24,7 +24,7 @@ require_once '../app/config/App.php';
     </div>
     <!-- /.content-wrapper -->
 
-    <?php require_once "./includes/footer.php"; ?>
+    <?php require_once "../includes/footer.php"; ?>
 
 </body>
 </html>
